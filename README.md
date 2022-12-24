@@ -1,1 +1,1 @@
-django  app 
+This is project web app contents video 
